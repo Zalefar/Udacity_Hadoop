@@ -1,6 +1,8 @@
 #Udacity Intro to Hadoop and MapReduce Final Project   
-###Zach Farmer  
+####Zach Farmer  
 **** 
+This repository contains code used in the pursuit of Udacity's Intro to Hadoop and MapReduce course. The repository houses my implementation of the class final project.     
+
 The purpose of this project was to analyze Udacity Forum data in order to explore MapReduce design patterns and structures. Filter, Summarization and Structural patterns were explored and implemented in order to answer a series of questions about the dataset.    
 
 
