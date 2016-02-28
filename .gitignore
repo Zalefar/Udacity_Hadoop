@@ -1,4 +1,4 @@
-#Ipython notebook errat
+#Ipython notebook errata
 .ipynb_checkpoints
 
 #Mac OSX errata 
@@ -8,4 +8,6 @@
 forum_data 
 
 #Vim backups
-*~
+*.md~
+.gitignore~
+
