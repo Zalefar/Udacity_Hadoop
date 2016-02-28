@@ -1,0 +1,11 @@
+#Ipython notebook errat
+.ipynb_checkpoints
+
+#Mac OSX errata 
+.DS_Store
+
+#Large Files
+forum_data 
+
+#Vim backups
+*~
